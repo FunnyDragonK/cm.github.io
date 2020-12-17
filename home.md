@@ -1,3 +1,3 @@
 layout: page
-title: "home"
-permalink: /home
+title: "contact"
+permalink: /about/contact/
