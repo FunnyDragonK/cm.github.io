@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
+title: Camera Motion Classification Based on 3D ResNet with Attention Module
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div align='center' ><font size='15'><b>Camera Motion Classification Based on 3D ResNet with Attention Module</b></font></div>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Abstract
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Camera motion classification is a classic task in computer vision. Recent existing methods always take two consecutive frames as input to classify the camera motion and then a post-processing is applied to classify the camera motion of the video segment. However, most of them only utilize motion vectors to analyze the camera motion, which makes them usually fail when there are large motion objects. In this paper, a deep learning based method is proposed to classify the camera motion directly from the input video segment in an end to end manner. To reduce the ambiguity caused by motion objects, an efficient attention module with consistent constraints is designed and combined with the base network. The attention module is used to explicitly generate a soft attention mask that makes the network pay more attention to stationary objects than motion objects. Specifically, 3D convolutional neural networks (3D CNN) is adopted as the base network to extract spatio-temporal features directly from video segments. Besides, the proposed method treats the camera motion classification task as a multi-label classification problem. As such, it can recognize the combination of basic camera operations. For performance evaluation, a challenging dataset consisting of 1,954 video segments is built, which includes various real-world scenes. All the video segments are manually annotated with seven basic categories of camera motions in the form of multiple labels. Finally, extensive experimental results show that the proposed deep learning based method achieves a better performance than recent state-of-the-art methods in terms of efficiency and effectiveness.
 
+## Dataset
 
-[jekyll-organization]: https://github.com/jekyll
+link:[comming soon](www.baidu.com)
