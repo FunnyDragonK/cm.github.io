@@ -14,9 +14,9 @@ Camera motion classification is a classic task in computer vision. Recent existi
 
 <center class="half">
 <img src="https://github.com/FunnyDragonK/cm.github.io/blob/gh-pages/pics/data_distribution_all.png" width="250"/><img src="https://github.com/FunnyDragonK/cm.github.io/blob/gh-pages/pics/cctv_news.png" width="250"/><img src="https://github.com/FunnyDragonK/cm.github.io/blob/gh-pages/pics/cctv_sports_channel.png" width="250"/>
-    <div style="color:black; border-bottom: 1px solid #d9d9d9;
-    padding: 2px;">Fig. 1. Distribution and the various scenes of the dataset.</div>
 </center>
+
+<center>Fig. 1. Distribution and the various scenes of the dataset.</center>
 
 link: comming soon
 
