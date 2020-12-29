@@ -12,12 +12,11 @@ Camera motion classification is a classic task in computer vision. Recent existi
 
 ## Dataset
 
-<center class="half">
+<center>
 <img src="https://github.com/FunnyDragonK/cm.github.io/blob/gh-pages/pics/data_distribution_all.png" width="200"/>
 <img src="https://github.com/FunnyDragonK/cm.github.io/blob/gh-pages/pics/cctv_news.png" width="200"/>
 <img src="https://github.com/FunnyDragonK/cm.github.io/blob/gh-pages/pics/cctv_sports_channel.png" width="200"/>
 </center>
-
 <center>Fig. 1. Distribution and the various scenes of the dataset.</center>
 
 link: comming soon
